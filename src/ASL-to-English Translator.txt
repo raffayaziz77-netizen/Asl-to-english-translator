@@ -1,0 +1,9 @@
+﻿Project title: ASL-to-English Translator
+
+
+This project focuses on developing a deep learning model for American Sign Language (ASL) recognition, capable of identifying 39 different hand signs including both alphabets and digits. The system was trained using a combination of custom and public sign language datasets, with images preprocessed and normalized for optimal performance.
+Multiple neural network architectures were explored from a basic feedforward network to CNN and ResNet-18 models to compare learning efficiency and accuracy. The final fine-tuned ResNet-18 model achieved exceptional performance, demonstrating high accuracy in recognizing ASL signs. This model can be further integrated into applications for real-time sign language translation or accessible communication tools for the hearing-impaired community.
+Creator/developer: Muhammad Raffay Aziz
+
+
+TEST IMAGES:
