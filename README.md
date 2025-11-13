@@ -27,7 +27,7 @@ It was trained on a \*\*public dataset\*\* containing ASL alphabets and digits.
 ASL-to-English-Translator/  
 │  
 ├── model/  
-│ └── model.pth \# Trained CNN model  
+│ └── model link
 │  
 ├── src/  
 │ ├── train.py \# Model training script  
@@ -44,7 +44,7 @@ ASL-to-English-Translator/
 **How to Run**
 
 1\. \*\*Clone this repository\*\*  
-   git clone https://github.com/\<your-username\>/ASL-to-English-Translator.git  
+   git clone https://github.com/raffayaziz77-netizen/Asl-to-english-translator.git
    cd ASL-to-English-Translator
 
 **Install dependencies**  
